@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kester-cell/Roblox-Scripting-HUB/main/HUB%20scripts.txt"))()
